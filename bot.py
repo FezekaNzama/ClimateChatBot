@@ -3,10 +3,10 @@ import sched, time
 from datetime import date
 
 
-consumer_key = 'OqoJiQnStIwODsKXCMOR93g3v'
-api_secret = '9jhSSSGwG8eHVFslZWh8gQfdUo7b9EEJnwOh1Sn5reDqDzzKxk'
-access_token = '1494806422046973953-5tbXgWBuHeRtwB1rURhQ8UusxwlnwP'
-access_token_secret = '3yPet06s9zcdxHpFinHTuvxdn9lHysjkrfB0TfPvVgDmI'
+consumer_key = '*************************'
+api_secret = '************************************************'
+access_token = '************************************************'
+access_token_secret = '*******************************************'
 
 auth = tweepy.OAuthHandler(consumer_key,api_secret)
 auth.set_access_token(access_token,access_token_secret )
